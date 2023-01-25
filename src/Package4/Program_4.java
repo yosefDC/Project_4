@@ -13,7 +13,7 @@ public class Program_4 {
 				//name+=input_value.nextLine();
 				System.out.println(name);
 				
-				
+				//********************************************************************************************************
 				
 				System.out.println("Enter your student ID ");
 				int ID=input_value.nextInt();
@@ -28,6 +28,8 @@ public class Program_4 {
 				System.out.println("The end of the program2");
 				// Hello
 				// First commit step
+				System.out.println("------------------------------------------------------------------------------------");
+				//*******************************************************************************************************
 				
 				
 
